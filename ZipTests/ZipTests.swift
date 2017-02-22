@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Zip
+@testable import PGEZip
 
 class ZipTests: XCTestCase {
     
