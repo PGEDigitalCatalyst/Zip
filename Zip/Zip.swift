@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import minizip
+import PGEZip
 
 /// Zip error type
 public enum ZipError: Error {
@@ -202,7 +202,7 @@ public class Zip {
             let permissions = (fileInfo.external_fa >> 16) & 0x1FF
             do {
                 try fileManager.setAttributes([.posixPermissions : permissions], ofItemAtPath: fullPath)
-            } catch let error {
+            } catch {
                 print("Failed to set permissions to file \(fullPath)")
             }
 
