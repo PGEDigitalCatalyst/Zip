@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "347E3A731C1DFFB500A11FD3"
-               BuildableName = "Zip.framework"
-               BlueprintName = "Zip"
+               BuildableName = "PGEZip.framework"
+               BlueprintName = "PGEZip"
                ReferencedContainer = "container:Zip.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "347E3A731C1DFFB500A11FD3"
-            BuildableName = "Zip.framework"
-            BlueprintName = "Zip"
+            BuildableName = "PGEZip.framework"
+            BlueprintName = "PGEZip"
             ReferencedContainer = "container:Zip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,8 +65,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "347E3A731C1DFFB500A11FD3"
-            BuildableName = "Zip.framework"
-            BlueprintName = "Zip"
+            BuildableName = "PGEZip.framework"
+            BlueprintName = "PGEZip"
             ReferencedContainer = "container:Zip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -83,8 +83,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "347E3A731C1DFFB500A11FD3"
-            BuildableName = "Zip.framework"
-            BlueprintName = "Zip"
+            BuildableName = "PGEZip.framework"
+            BlueprintName = "PGEZip"
             ReferencedContainer = "container:Zip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

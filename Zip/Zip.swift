@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import PGEZip
+import pgeminizip
 
 /// Zip error type
 public enum ZipError: Error {
