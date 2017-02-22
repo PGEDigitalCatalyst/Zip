@@ -8,7 +8,7 @@
 
 import Foundation
 
-extension Zip {
+extension PGEZip {
     
     //MARK: Quick Unzip
     

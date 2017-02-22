@@ -49,7 +49,7 @@ public enum ZipCompression: Int {
 }
 
 /// Zip class
-public class Zip {
+public class PGEZip {
     
     /**
      Set of vaild file extensions
